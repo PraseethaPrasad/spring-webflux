@@ -5,7 +5,7 @@ A sample spring webflux project created to understand the basic implementation h
 ## Requirements
 
 1. Java  - 1.8
-2. Mongo DB - 3.x
+2. Mongo DB - 4.0
 
 ## Steps to Setup
 
