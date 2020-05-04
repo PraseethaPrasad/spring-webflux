@@ -1,4 +1,4 @@
-# Build Reactive Rest APIs with Spring WebFlux and Reactive MongoDB
+# Build Reactive Rest API with Spring WebFlux and Reactive MongoDB
 
 A sample spring webflux project created to understand the basic implementation how to make an API reactive.
 
