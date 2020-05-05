@@ -8,7 +8,7 @@ import lombok.Data;
 @Document(collection = "employee")
 public class Employee {
 
-	@Field
+	@Field(value = "emp_id")
 	private Integer employeeId;
 
 	@Field(value = "first_name")
