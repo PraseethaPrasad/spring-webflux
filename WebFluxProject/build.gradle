@@ -18,11 +18,11 @@ repositories { mavenCentral() }
 
 dependencies {
 
-	// Spring Webflux dependency
-    compile("org.springframework.boot:spring-boot-starter-webflux")
-    compile("io.projectreactor:reactor-core")  
+        // Spring Webflux dependency
+        compile("org.springframework.boot:spring-boot-starter-webflux")
+        compile("io.projectreactor:reactor-core")  
     
-    // Test
+        // Test
 	testCompile("org.springframework.boot:spring-boot-starter-test")
 	runtime("org.springframework.boot:spring-boot-devtools")
 	
